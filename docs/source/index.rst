@@ -27,3 +27,7 @@ Kod::
 |tabela |tabela |
 +-------+-------+
 
+.. toctree::
+
+   usage
+   api
